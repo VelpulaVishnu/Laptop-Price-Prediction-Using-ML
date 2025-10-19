@@ -1,0 +1,2 @@
+# Laptop Price Prediction Using ML
+The main goal of this project is to predict the **price of laptops** based on their specifications. By analyzing various features such as brand, processor type, RAM, storage, display, and GPU, we aim to develop a model that accurately estimates the price of any given laptop configuration. This helps consumers, sellers, and manufacturers make data-driven pricing decisions.
